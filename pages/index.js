@@ -13,7 +13,7 @@ export async function getStaticProps() {
     }
   }
 }
-
+//this is the test
 export default function Home({ products }) {
   console.log(products)
   return (
